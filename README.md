@@ -1,4 +1,6 @@
 # Counter-Even-Odd
+Runners-up in hackathon.<br />
+
 This is a smart contract for Stacks 2.0 Hackathon written in Clarity.<br />
 
 This smart contract can increment the value of counter, decrement the value of counter and check if counter value is even or odd.<br /> 
