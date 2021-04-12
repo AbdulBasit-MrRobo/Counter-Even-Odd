@@ -1,5 +1,5 @@
 # Counter-Even-Odd
-Runners-up in hackathon.<br />
+Runners-up in hackathon. [Check it Out](https://devpost.com/software/counter-even-odd)<br />
 
 This is a smart contract for Stacks 2.0 Hackathon written in Clarity.<br />
 
